@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69640524171",
+    "firebase_url": "https://hack20-defe6.firebaseio.com",
+    "project_id": "hack20-defe6",
+    "storage_bucket": "hack20-defe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69640524171:android:362e6da322212eaeccdf8e",
+        "android_client_info": {
+          "package_name": "wwsafe.raiz.com.wwsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69640524171-nfc90lc9tuau8epviponpc5ri00mlmns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWEU1ghMVvsNx-jdTDwvUT62BECiwCv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69640524171-nfc90lc9tuau8epviponpc5ri00mlmns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
